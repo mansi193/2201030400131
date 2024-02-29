@@ -1,0 +1,877 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144.2rem;
+}.search-y6w {
+  box-sizing: border-box;
+  padding-bottom: 1.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.search-y6w .auto-group-nszz-4u5 {
+  margin: 0rem 0rem 3rem 0.2rem;
+  width: 144rem;
+  height: 119.265rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM {
+  width: 111rem;
+  height: 119.265rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .form-input-search-g9m {
+  margin: 0rem 36.1rem 9.855rem 18.5rem;
+  box-sizing: border-box;
+  padding: 0.58rem 1.08rem 0.58rem 1.08rem;
+  width: calc(100% - 54.6rem);
+  height: 3.41rem;
+  border: solid 0.1rem #b6b6b6;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .form-input-search-g9m .divh2d-9b95754e-KTd {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .form-button-wzo {
+  margin: 0rem 0rem 2.7rem 62.671rem;
+  width: 14.871rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.215;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  color: #4286f4;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #4286f4;
+  box-sizing: border-box;
+  box-shadow: 0 0.3rem 0.5rem rgba(67, 134, 243, 0.3700000048);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.99rem 14.95rem 2rem 8.85rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .link-picture-as-you-like-itwebp-pBR {
+  margin: 0.01rem 4.4rem 0rem 0rem;
+  width: 16rem;
+  height: 16rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-picture-as-you-like-itwebp.png');
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV {
+  margin-bottom: 1.56rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .heading-4-link-shakespeares--NMM {
+  margin-bottom: 1.95rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1999999682;
+  letter-spacing: 0.1rem;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .heading-4-link-shakespeares--NMM .heading-4-link-shakespeares--NMM-sub-0 {
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .heading-4-link-shakespeares--NMM .heading-4-link-shakespeares--NMM-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1999999682;
+  letter-spacing: 0.1rem;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Merriweather, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .heading-4-link-shakespeares--NMM .heading-4-link-shakespeares--NMM-sub-2 {
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .as-you-like-it-is-a-comedy-play-that-examines-the-family-rivalries-between-siblings-and-the-role-that-love-can-play-in-overcoming-disputes-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-gPy {
+  max-width: 65.6rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .as-you-like-it-is-a-comedy-play-that-examines-the-family-rivalries-between-siblings-and-the-role-that-love-can-play-in-overcoming-disputes-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-gPy .as-you-like-it-is-a-comedy-play-that-examines-the-family-rivalries-between-siblings-and-the-role-that-love-can-play-in-overcoming-disputes-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-gPy-sub-0 {
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .as-you-like-it-is-a-comedy-play-that-examines-the-family-rivalries-between-siblings-and-the-role-that-love-can-play-in-overcoming-disputes-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-gPy .as-you-like-it-is-a-comedy-play-that-examines-the-family-rivalries-between-siblings-and-the-role-that-love-can-play-in-overcoming-disputes-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-gPy-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-iPH .divcol-md-9-2HV .as-you-like-it-is-a-comedy-play-that-examines-the-family-rivalries-between-siblings-and-the-role-that-love-can-play-in-overcoming-disputes-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-gPy .as-you-like-it-is-a-comedy-play-that-examines-the-family-rivalries-between-siblings-and-the-role-that-love-can-play-in-overcoming-disputes-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-gPy-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK {
+  margin: 0rem 0rem 0.02rem 1rem;
+  width: 110rem;
+  height: 38.48rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR {
+  box-sizing: border-box;
+  padding: 1.99rem 14.35rem 2rem 8.85rem;
+  width: 109.8rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR .link-picture-twelfth-nightwebp-c6b {
+  margin: 0.01rem 4.4rem 0rem 0rem;
+  width: 16rem;
+  height: 16rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-picture-twelfth-nightwebp.png');
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR .divcol-md-9-Td1 {
+  margin-bottom: 1.56rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR .divcol-md-9-Td1 .heading-4-link-summary-of-twelfth-night-by-william-shakespeare-QHM {
+  margin-bottom: 1.95rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1999999682;
+  letter-spacing: 0.1rem;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR .divcol-md-9-Td1 .twelfth-night-is-a-comedic-twist-on-the-age-old-love-triangle-plot-bending-the-gender-roles-and-rules-and-eventually-ending-in-two-happy-marriages-and-a-surprising-disguise-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-UHD {
+  max-width: 65.6rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR .divcol-md-9-Td1 .twelfth-night-is-a-comedic-twist-on-the-age-old-love-triangle-plot-bending-the-gender-roles-and-rules-and-eventually-ending-in-two-happy-marriages-and-a-surprising-disguise-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-UHD .twelfth-night-is-a-comedic-twist-on-the-age-old-love-triangle-plot-bending-the-gender-roles-and-rules-and-eventually-ending-in-two-happy-marriages-and-a-surprising-disguise-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-UHD-sub-0 {
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR .divcol-md-9-Td1 .twelfth-night-is-a-comedic-twist-on-the-age-old-love-triangle-plot-bending-the-gender-roles-and-rules-and-eventually-ending-in-two-happy-marriages-and-a-surprising-disguise-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-UHD .twelfth-night-is-a-comedic-twist-on-the-age-old-love-triangle-plot-bending-the-gender-roles-and-rules-and-eventually-ending-in-two-happy-marriages-and-a-surprising-disguise-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-UHD-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-YsR .divcol-md-9-Td1 .twelfth-night-is-a-comedic-twist-on-the-age-old-love-triangle-plot-bending-the-gender-roles-and-rules-and-eventually-ending-in-two-happy-marriages-and-a-surprising-disguise-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-UHD .twelfth-night-is-a-comedic-twist-on-the-age-old-love-triangle-plot-bending-the-gender-roles-and-rules-and-eventually-ending-in-two-happy-marriages-and-a-surprising-disguise-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-UHD-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq {
+  box-sizing: border-box;
+  padding: 1.99rem 9.45rem 1.64rem 8.85rem;
+  width: 109.8rem;
+  height: 20.48rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 18rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq .link-picture-the-winter-s-talewebp-kAB {
+  margin: 0rem 4.4rem 0.83rem 0rem;
+  width: 16rem;
+  height: 16rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-picture-the-winter-s-talewebp.png');
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq .divcol-md-9-DZZ {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq .divcol-md-9-DZZ .heading-4-link-summary-of-the-winters-tale-by-william-shakespeare-9i7 {
+  margin-bottom: 1.95rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1999999682;
+  letter-spacing: 0.1rem;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq .divcol-md-9-DZZ .the-winters-tale-is-a-cautionary-play-about-the-damage-jealousy-can-wreak-on-families-and-friendships-however-it-is-also-a-play-about-how-someone-can-be-redeemed-from-their-mistakes-made-in-jealousy-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-ba7 {
+  max-width: 64.6rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq .divcol-md-9-DZZ .the-winters-tale-is-a-cautionary-play-about-the-damage-jealousy-can-wreak-on-families-and-friendships-however-it-is-also-a-play-about-how-someone-can-be-redeemed-from-their-mistakes-made-in-jealousy-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-ba7 .the-winters-tale-is-a-cautionary-play-about-the-damage-jealousy-can-wreak-on-families-and-friendships-however-it-is-also-a-play-about-how-someone-can-be-redeemed-from-their-mistakes-made-in-jealousy-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-ba7-sub-0 {
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq .divcol-md-9-DZZ .the-winters-tale-is-a-cautionary-play-about-the-damage-jealousy-can-wreak-on-families-and-friendships-however-it-is-also-a-play-about-how-someone-can-be-redeemed-from-their-mistakes-made-in-jealousy-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-ba7 .the-winters-tale-is-a-cautionary-play-about-the-damage-jealousy-can-wreak-on-families-and-friendships-however-it-is-also-a-play-about-how-someone-can-be-redeemed-from-their-mistakes-made-in-jealousy-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-ba7-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .auto-group-2m5w-FtK .divcontainer-esq .divcol-md-9-DZZ .the-winters-tale-is-a-cautionary-play-about-the-damage-jealousy-can-wreak-on-families-and-friendships-however-it-is-also-a-play-about-how-someone-can-be-redeemed-from-their-mistakes-made-in-jealousy-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-ba7 .the-winters-tale-is-a-cautionary-play-about-the-damage-jealousy-can-wreak-on-families-and-friendships-however-it-is-also-a-play-about-how-someone-can-be-redeemed-from-their-mistakes-made-in-jealousy-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-ba7-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod {
+  margin: 0rem 0.2rem 0.02rem 1rem;
+  box-sizing: border-box;
+  padding: 1.99rem 16.65rem 2rem 8.85rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod .link-picture-midsummer-night-s-dreamwebp-hoV {
+  margin: 0.01rem 4.4rem 0rem 0rem;
+  width: 16rem;
+  height: 16rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-picture-midsummer-night-s-dreamwebp.png');
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod .divcol-md-9-Nud {
+  margin-bottom: 1.56rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod .divcol-md-9-Nud .heading-4-link-a-midsummer-nights-dream-summary-8du {
+  margin-bottom: 1.95rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1999999682;
+  letter-spacing: 0.1rem;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod .divcol-md-9-Nud .a-midsummer-nights-dream-delivers-a-comedic-tale-of-an-ancient-greek-love-triangle-which-falls-apart-under-hilarious-circumstances-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-1xb {
+  max-width: 63.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod .divcol-md-9-Nud .a-midsummer-nights-dream-delivers-a-comedic-tale-of-an-ancient-greek-love-triangle-which-falls-apart-under-hilarious-circumstances-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-1xb .a-midsummer-nights-dream-delivers-a-comedic-tale-of-an-ancient-greek-love-triangle-which-falls-apart-under-hilarious-circumstances-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-1xb-sub-0 {
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod .divcol-md-9-Nud .a-midsummer-nights-dream-delivers-a-comedic-tale-of-an-ancient-greek-love-triangle-which-falls-apart-under-hilarious-circumstances-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-1xb .a-midsummer-nights-dream-delivers-a-comedic-tale-of-an-ancient-greek-love-triangle-which-falls-apart-under-hilarious-circumstances-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-1xb-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-dod .divcol-md-9-Nud .a-midsummer-nights-dream-delivers-a-comedic-tale-of-an-ancient-greek-love-triangle-which-falls-apart-under-hilarious-circumstances-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-1xb .a-midsummer-nights-dream-delivers-a-comedic-tale-of-an-ancient-greek-love-triangle-which-falls-apart-under-hilarious-circumstances-learn-more-about-shakespeare-plays-with-our-picture-encyclopedia-read-more-1xb-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ {
+  margin-left: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.99rem 14.35rem 1.64rem 8.85rem;
+  width: calc(100% - 1.2rem);
+  height: 20.78rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ .link-picture-comedieswebp-XrP {
+  margin: 0rem 4.4rem 1.13rem 0rem;
+  width: 16rem;
+  height: 16rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-picture-comedieswebp.png');
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ .divcol-md-9-22T {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ .divcol-md-9-22T .heading-4-link-types-of-shakespeare-plays-APZ {
+  margin-bottom: 0.49rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1999999682;
+  letter-spacing: 0.1rem;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ .divcol-md-9-22T .by-rebecca-ray-and-kristy-littlehale-T7m {
+  margin-bottom: 1.46rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  font-style: italic;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ .divcol-md-9-22T .no-matter-what-they-were-named-william-shakespeares-plays-would-still-be-great-works-of-art-so-it-may-not-matter-what-we-call-them-generally-though-shakespeare-wrote-three-types-of-plays-tragedy-comedy-and-history-read-more-7CK {
+  max-width: 66.2rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #233b53;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ .divcol-md-9-22T .no-matter-what-they-were-named-william-shakespeares-plays-would-still-be-great-works-of-art-so-it-may-not-matter-what-we-call-them-generally-though-shakespeare-wrote-three-types-of-plays-tragedy-comedy-and-history-read-more-7CK .no-matter-what-they-were-named-william-shakespeares-plays-would-still-be-great-works-of-art-so-it-may-not-matter-what-we-call-them-generally-though-shakespeare-wrote-three-types-of-plays-tragedy-comedy-and-history-read-more-7CK-sub-0 {
+}
+.search-y6w .auto-group-nszz-4u5 .section-yFM .divcontainer-qyZ .divcol-md-9-22T .no-matter-what-they-were-named-william-shakespeares-plays-would-still-be-great-works-of-art-so-it-may-not-matter-what-we-call-them-generally-though-shakespeare-wrote-three-types-of-plays-tragedy-comedy-and-history-read-more-7CK .no-matter-what-they-were-named-william-shakespeares-plays-would-still-be-great-works-of-art-so-it-may-not-matter-what-we-call-them-generally-though-shakespeare-wrote-three-types-of-plays-tragedy-comedy-and-history-read-more-7CK-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #1a0dab;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u {
+  box-sizing: border-box;
+  padding: 1.579rem 12rem 1.021rem 38.6rem;
+  width: 144rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.2399999946);
+  background-color: #ffffff;
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u .nav-list-item-link-resources-uA7 {
+  margin: 0rem 12.442rem 0.718rem 0rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u .nav-list-item-link-create-a-storyboard-kgX {
+  margin: 0rem 17.596rem 0.718rem 0rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u .list-item-button-newsearchpng-39q {
+  margin-right: 2.068rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/list-item-button-newsearchpng-2Dm.png');
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u .list-item-link-my-storyboards-8SB {
+  margin: 0rem 8.185rem 0.398rem 0rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u .list-item-aside-button-log-out-EVD {
+  margin: 0rem 7.209rem 0.398rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u .list-button-profile-menu-jB5 {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #dae6f4;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.search-y6w .auto-group-nszz-4u5 .divheader-22-container-37u .list-button-profile-menu-jB5 .userpng-4DM {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/userpng-ZgK.png');
+}
+.search-y6w .section-section-UH5 {
+  margin-right: 3.9rem;
+  width: 144rem;
+  height: 82.3rem;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .picture-source-CTy {
+  width: 29rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 90.6rem;
+  top: 26.721rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('REPLACE_IMAGE:5:879');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-92w.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-myq.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-KnF.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-ohR.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-QXq.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj .picture-source-fks {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-DrF.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj .picture-source-fks .picture-source-D1h {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('REPLACE_IMAGE:5:893');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj .picture-source-fks .picture-source-D1h .picture-source-m3D {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-Zcb.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj .picture-source-fks .picture-source-D1h .picture-source-m3D .picture-source-J39 {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-BVy.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj .picture-source-fks .picture-source-D1h .picture-source-m3D .picture-source-J39 .picture-source-Bsd {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-h7m.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj .picture-source-fks .picture-source-D1h .picture-source-m3D .picture-source-J39 .picture-source-Bsd .picture-source-8ns {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-fill-2oy.png');
+}
+.search-y6w .section-section-UH5 .picture-source-CTy .picture-source-vPy .picture-source-5Gs .picture-source-q19 .picture-source-yNF .picture-source-iaj .picture-source-fks .picture-source-D1h .picture-source-m3D .picture-source-J39 .picture-source-Bsd .picture-source-8ns .image-fill-Hfm {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.search-y6w .section-section-UH5 .picture-grpimgwebp-uSF {
+  width: 133.8rem;
+  height: 24.1rem;
+  position: relative;
+  left: 2.9rem;
+  top: 5.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/picture-grpimgwebp.png');
+}
+.search-y6w .section-section-UH5 .section-footer-PsD {
+  box-sizing: border-box;
+  padding: 2.6789rem 9.9206rem;
+  width: 144rem;
+  height: 48.7rem;
+  position: absolute;
+  left: 0;
+  top: 33.6rem;
+  background-color: #233b53;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 {
+  width: 111rem;
+  height: 29.08rem;
+  display: flex;
+  align-items: flex-start;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-FPd {
+  margin-right: 38.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-FPd .for-students-NDM {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.215;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-FPd .list-item-link-my-classroom-qcj {
+  margin-bottom: 1.48rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-FPd .list-item-link-photos-for-class-wvf {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 {
+  margin-right: 30.8rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .for-teachers-PXm {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.215;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .list-item-link-free-trial-for-teachers-W6b {
+  margin-bottom: 1.48rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .list-item-link-district-packages-cfR {
+  margin-bottom: 1.48rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .list-item-link-training-sessions-Wko {
+  margin-bottom: 1.48rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .list-item-link-all-teacher-resources-nCX {
+  margin-bottom: 1.48rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .auto-group-xjxy-V6w {
+  margin-bottom: 1.48rem;
+  width: 11.6rem;
+  height: 4.98rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .auto-group-xjxy-V6w .list-item-link-all-worksheet-DYj {
+  width: 11.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .auto-group-xjxy-V6w .list-item-link-templates-uwM {
+  width: 8.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.48rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-Te7 .list-item-link-all-poster-templates-PrX {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-71q {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-71q .about-Spo {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.215;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Cabin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-71q .list-item-link-about-us-XLT {
+  margin-bottom: 1.48rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-y6w .section-section-UH5 .section-footer-PsD .divcontainer-KF5 .divfooter-col-71q .list-item-link-contact-us-EEs {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #d9d9d9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
